@@ -5,9 +5,15 @@
 body
 {
     margin: 0;
-    background: linear-gradient(to right,#00AAFF,#00FF6c) ;
+    background: linear-gradient(to left,#143968, #8993A4, #FFE79B) ;
     display: flex;
     justify-content: center;
+}
+
+
+.my-calculator{
+    height: 100vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .calculator-grid{
